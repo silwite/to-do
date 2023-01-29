@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "//github.io/to-do/static/js/main.e7d2692d.js",
+    "index.html": "//github.io/to-do/index.html",
+    "main.e7d2692d.js.map": "//github.io/to-do/static/js/main.e7d2692d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e7d2692d.js"
+  ]
+}
