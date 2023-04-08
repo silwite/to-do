@@ -8,6 +8,7 @@ To run the app on your local machine, follow these steps:
 2 Install the dependencies: npm install
 3 Start the development server: npm start
 4 Open http://localhost:3000 in your web browser to view the app.
+
 <img width="388" alt="todo 1" src="https://user-images.githubusercontent.com/89529159/230718862-d86753bb-b88e-4cf2-8925-c41fb2d85b61.png">
 <img width="338" alt="todo2" src="https://user-images.githubusercontent.com/89529159/230718917-fc64c71f-8648-4c7d-a0d3-8af19734ae60.png">
 
