@@ -4,7 +4,7 @@ This is a simple Todo app built with React, a popular JavaScript library for bui
 ## Getting Started
 To run the app on your local machine, follow these steps:
 
-1 Clone the repository: git clone https://github.com/your-username/react-todo-app.git
+1 Clone the repository
 2 Install the dependencies: npm install
 3 Start the development server: npm start
 4 Open http://localhost:3000 in your web browser to view the app.
