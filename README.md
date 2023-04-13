@@ -1,5 +1,5 @@
 # React Todo App
-This is a simple Todo app built with React, a popular JavaScript library for building user interfaces. The app allows users to add, edit, and delete tasks, as well as mark tasks as completed.
+This is a simple Todo app built with React, a popular JavaScript library for building user interfaces. The app allows users to add, edit, and delete tasks, as well as mark tasks as completed.Performing CRUD operations.
 
 ## Getting Started
 To run the app on your local machine, follow these steps:
